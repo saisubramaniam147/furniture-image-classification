@@ -1,0 +1,2 @@
+# furniture-image-classification
+IMAGE CLASSIFICATION OF FURNITURE AND HOME GOODS
